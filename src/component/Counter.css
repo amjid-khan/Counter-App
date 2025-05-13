@@ -1,0 +1,19 @@
+#counter{
+    width: 40vw;
+    padding: 100px 20px;
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+}
+#counter button {
+    width: 60px;
+    height: 60px;
+    font-size: 40px;
+}
+#counter p{
+    padding: 0 30px;
+    font-size: 40px;
+    font-weight: 700;
+}
